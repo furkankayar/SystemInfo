@@ -6,3 +6,5 @@ arch/x86/entry/syscalls/syscall_64.tbl :<br/>
 
 include/linux/syscalls.h :<br/>
   asmlinkage long sys_systeminfo(char __user *, char __user *, char __user *, char __user *);
+
+<img src="2016510110_result.png"/>
